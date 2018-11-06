@@ -9,4 +9,5 @@ Including
 2. exploring and processing data: exploratory data analysis, data munging, feature engineering, visualization, etc.
 3. building and evaluating predictive models:
     Algorithms: Bayesian, logit regression, SVM, Perception/Neural Network, decision tree/random forest, boosting methods, stacking methods.
-    Perfomrance metrics: accuracy, precision, recall, F1 score, P-R, ROC, and etc
+    Perfomrance metrics: accuracy, precision, recall, F1 score, P-R, ROC.
+    Parameter tuning: CrossValidation, etc
