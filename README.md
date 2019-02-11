@@ -11,3 +11,5 @@ Including
     Algorithms: Bayesian, logit regression, SVM, Perception/Neural Network, decision tree/random forest, boosting methods, stacking methods.
     Perfomrance metrics: accuracy, precision, recall, F1 score, P-R, ROC.
     Parameter tuning: CrossValidation, etc
+    
+Projects/Practices with industrial ML tools: H2O, Spark ML.
